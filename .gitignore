@@ -1,0 +1,16 @@
+# Terraform state files and backup
+terraform/.terraform/
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
+*.tfstate
+*.tfstate.backup
+
+# Terraform plan output
+*.tfplan
+
+# Provider lock file (should be committed if using in teams)
+# Uncomment below only if you're sure you want to ignore it:
+# .terraform.lock.hcl
+
+# VS Code settings
+.vscode/
