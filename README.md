@@ -21,9 +21,10 @@ This screenshot shows the overview panel for the `dev.terraform.tfstate` file st
 - The state file is stored in Azure Blob Storage and is not included in this repository.
 - The `terraform destroy` command was executed after submission, and the blob still remains as per lab requirements.
 
-## Submission Files
+## Submission Files and Link
 
 - Screenshot of blob overview panel with user profile visible
 - Downloaded copy of `dev.terraform.tfstate` file (submitted via Brightspace)
+- The GitHub repo link
 
 
